@@ -41,8 +41,8 @@ POSTGRES_DB=contactflow_db
 POSTGRES_USER=contactflow
 POSTGRES_PASSWORD=contactflow123
 DATABASE_URL=postgresql://contactflow:contactflow123@postgres:5432/contactflow_db
-CORS_ORIGINS=http://16.112.38.217:3000
-VITE_API_URL=http://16.112.38.217:8000
+CORS_ORIGINS=http://3.6.113.199:3000
+VITE_API_URL=http://3.6.113.199:8000
 EOF
 
 
